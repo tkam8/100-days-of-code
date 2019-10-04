@@ -52,3 +52,14 @@ pip 19.2.3 from /usr/local/lib/python3.7/site-packages/pip (python 3.7)
 Finally get to work with real data, and also get a better understanding of main() funtion and what it means to a project with potentially multiple functions split over multiple files. 
 
 **Thoughts:**:  I wonder if there is a better way to grab deal with deeply nested dictionary or list items instead of typing them all out. Also, is the json function in requests library same as the json library? Need to spend more time figuring out third party libs.
+
+### Day 4: 20191004, Fri
+
+**Today's Progress**: 
+* Python: XML, JSON, and the Web (linkedin) - Requests and JSON
+* Code Clinic: Python (linkedin) - POST with requests library
+
+Found out GCP console has an API dashboard and seems there's no free tier anymore. 
+Learned the difference between Request module and Requests package/library. Former is basic without POST capability, the latter you need to download but more robust. Wrote some code for grabbing tokens via API. 
+
+**Thoughts:**:  need to tweak vscode a little more so that I can use 3rd party packages. 
