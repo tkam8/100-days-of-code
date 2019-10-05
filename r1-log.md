@@ -63,3 +63,12 @@ Found out GCP console has an API dashboard and seems there's no free tier anymor
 Learned the difference between Request module and Requests package/library. Former is basic without POST capability, the latter you need to download but more robust. Wrote some code for grabbing tokens via API. 
 
 **Thoughts:**:  need to tweak vscode a little more so that I can use 3rd party packages. 
+
+### Day 5: 20191005, Sat
+
+**Today's Progress**: 
+Reorganizing existing code so that I have a main function that calls separate functions that include getting tokens, then POSTing some other data. Understanding where "return" is used in comparison to print functions. 
+
+Learned about .get() vs using brackets in dictionaries. Also the new python3 print function has sep='\n' to printout items on separate lines. 
+
+**Thoughts:**: Still lots to cover, but definitely making gains on fundamental concepts. 
