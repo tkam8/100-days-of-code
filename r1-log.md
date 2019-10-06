@@ -72,3 +72,11 @@ Reorganizing existing code so that I have a main function that calls separate fu
 Learned about .get() vs using brackets in dictionaries. Also the new python3 print function has sep='\n' to printout items on separate lines. 
 
 **Thoughts:**: Still lots to cover, but definitely making gains on fundamental concepts. 
+
+### Day 6: 20191006, Sun
+
+**Today's Progress**: 
+Fixed my dictionary key check. 
+Need to learn more about the while , if, continue concepts.  
+
+**Thoughts:**:  parts of a script can get large qiuck...
