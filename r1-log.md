@@ -80,3 +80,11 @@ Fixed my dictionary key check.
 Need to learn more about the while , if, continue concepts.  Especially in terms of continue and break, and what parts get looped, and what doesn't. 
 
 **Thoughts:**:  parts of a script can get large quick...I can see why it's so hard to write simple yet understandable code...but when you start using code to simplify, that may not be the easiest to understand. 
+
+### Day 7: 20191007, Mon
+
+**Today's Progress**: 
+Taking a side step to work on building out a CDN for a work project. 
+Before that, I wanted to make all provisioning tools run in a container so working on a new multistage build dockerfile that apparently grabs all the necessary stuff from existing builds. Pretty interesting but need to play around with it. 
+
+**Thoughts:**: Multi-tasking is inevitable. But it may prove helpful in keeping my interest going over time so I don't get burned out. 
