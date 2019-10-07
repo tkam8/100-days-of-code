@@ -77,6 +77,6 @@ Learned about .get() vs using brackets in dictionaries. Also the new python3 pri
 
 **Today's Progress**: 
 Fixed my dictionary key check. 
-Need to learn more about the while , if, continue concepts.  
+Need to learn more about the while , if, continue concepts.  Especially in terms of continue and break, and what parts get looped, and what doesn't. 
 
-**Thoughts:**:  parts of a script can get large qiuck...
+**Thoughts:**:  parts of a script can get large quick...I can see why it's so hard to write simple yet understandable code...but when you start using code to simplify, that may not be the easiest to understand. 
