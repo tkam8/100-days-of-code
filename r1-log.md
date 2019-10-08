@@ -88,3 +88,9 @@ Taking a side step to work on building out a CDN for a work project.
 Before that, I wanted to make all provisioning tools run in a container so working on a new multistage build dockerfile that apparently grabs all the necessary stuff from existing builds. Pretty interesting but need to play around with it. 
 
 **Thoughts:**: Multi-tasking is inevitable. But it may prove helpful in keeping my interest going over time so I don't get burned out. 
+
+### Day 8: 20191008, Tue
+
+**Today's Progress**:  Did more work on terraform creating root module and child modules to spin up a network, subnetwork, firewall, f5 instance and nginx instance in that network. Created dockerfile that builds an alpine instance with terraform and ansible. Works great so far. 
+
+**Thoughts:**:  IaC is also coding right? It also jives well with the https://12factor.net/ philosophy which I'm trying to absorb more of to put meaning to some of what I'm doing. For instance, is one container suppose to only have one process running on it or can we diverge?
