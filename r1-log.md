@@ -95,8 +95,14 @@ Before that, I wanted to make all provisioning tools run in a container so worki
 
 **Thoughts:**:  IaC is also coding right? It also jives well with the https://12factor.net/ philosophy which I'm trying to absorb more of to put meaning to some of what I'm doing. For instance, is one container suppose to only have one process running on it or can we diverge?
 
-### Day 8: 20191008, Tue
+### Day 9: 20191008, Wed
 
 **Today's Progress**: Worked on my dockerfile more, merging in some code from SNOPS container so that it is able to run scripts that call git clone for a repo that I specify in an env variable in the .env file. Also has a mechanism to read a user-mounted json file that contains a repo location so that the user can specify his/her own repo without modifying the dockerfile or scripts. Cool idea so I wanted to try it out. This counts as python study because I had to understand how the script works. 
 
 **Thoughts:**: Recent python study really came into play today while I looked at python code. Makes much more sense to know at least some of the basics. Even what I don't know I can figure out by context. Also figured out that bash scripting is similar enough to python so could understand it as well. 
+
+### Day 10: 20191009, Thu
+
+**Today's Progress**: Worked more with the CDN project. Completed the ansible playbooks/roles and tf modules. Also fixed the dockefile in multiple places. While not completely coding in Python, lots of the thought processes are similar to me. 
+
+**Thoughts:**: Good to know the details of ansible and terraform. 
