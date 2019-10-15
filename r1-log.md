@@ -107,8 +107,34 @@ Before that, I wanted to make all provisioning tools run in a container so worki
 
 **Thoughts:**: Good to know the details of ansible and terraform. 
 
-### Day 10: 20191011, Fri
+### Day 11: 20191011, Fri
 
 **Today's Progress**: Didn't do a commit due to travel, but worked on understanding how terraform can output variables to a file using templates (.tpl) which can then be consumed by other tools like Ansible. Also spent time on reviewing basics of classes and for, while loops on linkedin learning.
 
 **Thoughts:**: Can't let up just because of being on the road. Will keep moving forward but won't let a commit be overlooked again.
+
+### Day 12: 20191012, Sat
+
+**Today's Progress**:
+Finished sections on shutil, zipfile, xml.dom.minidom and html parsing, and realized it could be used for "responsible" web scraping with robots.txt, then a whole can of worms explode
+
+**Thoughts**: I should take time to google some practical use cases for some of the sections to connect the dots. 
+
+### Day 13: 20191013, Sun
+
+**Today's Progress**:
+Finished some nginx training. Configuration shares a lot of similarities with javascript and other programming languages, but also key differences that can also be traps for those used to programming. 
+
+
+### Day 14: 20191014, Mon
+
+**Today's Progress**:
+Linux Academy: More classes, composition, and inheritance. I realize this pattern of modularization appears in many different places hence me spending time here.  
+
+
+### Day 15: 20191015, Tue
+
+**Today's Progress**: 
+Trying out Pomodoro method, and so far I like it. 
+Learned more about argv vs argparse, which is actually what my side project scripts are using. 
+Spent time adding gke creation to terraform and ansible. 
