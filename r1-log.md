@@ -138,3 +138,10 @@ Linux Academy: More classes, composition, and inheritance. I realize this patter
 Trying out Pomodoro method, and so far I like it. 
 Learned more about argv vs argparse, which is actually what my side project scripts are using. 
 Spent time adding gke creation to terraform and ansible. 
+
+### Day 16: 20191016, Wed
+
+**Today's Progress**: 
+My licensing script works! Great feeling. I made the license key, ip address, username and password arguments that the user can pass in from the terminal. I can now use it as a stepping stone to more complex scripts. 
+I will call it a night so I can catch up on sleep...
+
