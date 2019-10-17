@@ -145,3 +145,8 @@ Spent time adding gke creation to terraform and ansible.
 My licensing script works! Great feeling. I made the license key, ip address, username and password arguments that the user can pass in from the terminal. I can now use it as a stepping stone to more complex scripts. 
 I will call it a night so I can catch up on sleep...
 
+### Day 17: 20191017, Thu
+
+**Today's Progress**: 
+Cleaned up yesterday's script. Colleague told me that I should try to convert python to c to really learn some deep stuff. 
+still haven't caught up on sleep but pushing through.
