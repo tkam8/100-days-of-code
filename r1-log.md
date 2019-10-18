@@ -150,3 +150,9 @@ I will call it a night so I can catch up on sleep...
 **Today's Progress**: 
 Cleaned up yesterday's script. Colleague told me that I should try to convert python to c to really learn some deep stuff. 
 still haven't caught up on sleep but pushing through.
+
+### Day 18: 20191018, Fri
+
+**Today's Progress**: 
+Learned more about err handling and try except block with finally. Went over my existing code to see where I could clean it up, add comments so I can remember why I did what. 
+Spend a lot of time cleaning up also my terraform project. What a mess it was, with wrong module names, non-exiting input and output vars, but it did feel good to see successful "terraform validate" and "terraform plan". 
