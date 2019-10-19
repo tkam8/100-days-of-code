@@ -156,3 +156,11 @@ still haven't caught up on sleep but pushing through.
 **Today's Progress**: 
 Learned more about err handling and try except block with finally. Went over my existing code to see where I could clean it up, add comments so I can remember why I did what. 
 Spend a lot of time cleaning up also my terraform project. What a mess it was, with wrong module names, non-exiting input and output vars, but it did feel good to see successful "terraform validate" and "terraform plan". 
+
+### Day 19: 20191019, Sat
+
+**Today's Progress**: 
+So while my tf validate succeeded, tf apply resulted in many errors, mostly due to not having the right output vars, not using self_link for the image name, some weird template_file error with curly brackets, etc. It was rough but I did feel good seeing the apply complete appear in that old school green on my black console background. 
+
+I also managed to stick in some linux academy learning on list comprehensions and also executing shell commands in python. 
+I can see how all of this has application in the real world. For now, going to bed. 
