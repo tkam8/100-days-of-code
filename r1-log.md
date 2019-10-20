@@ -164,3 +164,11 @@ So while my tf validate succeeded, tf apply resulted in many errors, mostly due 
 
 I also managed to stick in some linux academy learning on list comprehensions and also executing shell commands in python. 
 I can see how all of this has application in the real world. For now, going to bed. 
+
+### Day 20: 20191020, Sun
+
+**Today's Progress**:
+Not much coding, more learning on linux academy. Ran through the random and json libraries. 
+Even looking at the example code and listening to the instructor walk through the logic helps to understand more about design and syntax. Things like "with" for file open/close, and list comprehensions come up often so helps to remember it. 
+
+Slowly but surely. 
