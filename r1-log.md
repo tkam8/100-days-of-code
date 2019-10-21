@@ -172,3 +172,8 @@ Not much coding, more learning on linux academy. Ran through the random and json
 Even looking at the example code and listening to the instructor walk through the logic helps to understand more about design and syntax. Things like "with" for file open/close, and list comprehensions come up often so helps to remember it. 
 
 Slowly but surely. 
+
+### Day 21: 20191021, Mon
+
+**Today's Progress**:
+In linux academy, learned about OSError, glob/globbing syntax (to match multiple patterns of filenames), and shutil for doing operations on files. Spent most of my time today working on the CDN solution so not much coding. Caching is really a huge can of worms...but quite interesting to me to look at what people have been building over the years to optimize traffic. 
