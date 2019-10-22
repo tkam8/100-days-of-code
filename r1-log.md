@@ -177,3 +177,9 @@ Slowly but surely.
 
 **Today's Progress**:
 In linux academy, learned about OSError, glob/globbing syntax (to match multiple patterns of filenames), and shutil for doing operations on files. Spent most of my time today working on the CDN solution so not much coding. Caching is really a huge can of worms...but quite interesting to me to look at what people have been building over the years to optimize traffic. 
+
+### Day 21: 20191021, Mon
+
+**Today's Progress**:
+Learned about re module in Linux academy, and was reminded that I need to practice more regex. Other than that I fixed my terraform so that it uses the new templatefile function introduced in 0.12. Now moving on to Ansible, and hitting the typical permissions errors that should be relatively easy to fix. 
+
