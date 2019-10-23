@@ -178,8 +178,14 @@ Slowly but surely.
 **Today's Progress**:
 In linux academy, learned about OSError, glob/globbing syntax (to match multiple patterns of filenames), and shutil for doing operations on files. Spent most of my time today working on the CDN solution so not much coding. Caching is really a huge can of worms...but quite interesting to me to look at what people have been building over the years to optimize traffic. 
 
-### Day 21: 20191021, Mon
+### Day 22: 20191022, Tue
 
 **Today's Progress**:
 Learned about re module in Linux academy, and was reminded that I need to practice more regex. Other than that I fixed my terraform so that it uses the new templatefile function introduced in 0.12. Now moving on to Ansible, and hitting the typical permissions errors that should be relatively easy to fix. 
 
+### Day 23: 20191023, Wed
+
+**Today's Progress**:
+Learned a little about test driven development (TDD) and how it's part of extreme programming (XP). 
+Starting to connect the dots a little with past devops events where David Bernstein talklkd about what it means to be Agile. 
+Also used up cycles fixin my yaml files for Ansible to automate my infra more. lots to do!
