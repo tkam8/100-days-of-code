@@ -189,3 +189,10 @@ Learned about re module in Linux academy, and was reminded that I need to practi
 Learned a little about test driven development (TDD) and how it's part of extreme programming (XP). 
 Starting to connect the dots a little with past devops events where David Bernstein talklkd about what it means to be Agile. 
 Also used up cycles fixin my yaml files for Ansible to automate my infra more. lots to do!
+
+### Day 24: 20191024, Thu
+
+**Today's Progress**:
+Made major strides in my IaC project. Kubeconfig file generation using terraform and yaml templates. 
+This allows using the k8s module in ansible to then create a namespace and then a pod and service, granted the yaml manifest file is written correctly without syntax errors ;). 
+While not much python, lots of similarities. 
