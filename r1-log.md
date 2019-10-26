@@ -196,3 +196,15 @@ Also used up cycles fixin my yaml files for Ansible to automate my infra more. l
 Made major strides in my IaC project. Kubeconfig file generation using terraform and yaml templates. 
 This allows using the k8s module in ansible to then create a namespace and then a pod and service, granted the yaml manifest file is written correctly without syntax errors ;). 
 While not much python, lots of similarities. 
+
+### Day 25: 20191025, Fri
+
+**Today's Progress**:
+Looked at generating dump files. Nothing much else today as I was out and about almost all day getting some fresh air...and rain.
+
+### Day 26: 20191026, Sat
+
+**Today's Progress**:
+Switched to a different course on linux academy that teaches python development. Same general content but good to go through for repetition and I also tend to pick up new things when doing something a second or third time. 
+For instance, I start to think of the use cases where one would use tuples, dicts, ranges, and using tuples or lists to populate a dict. 
+On the IaC side, I finally was able to get a successful playbook run with ansible. Ensured I used become_method: sudo. 
