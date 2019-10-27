@@ -208,3 +208,10 @@ Looked at generating dump files. Nothing much else today as I was out and about 
 Switched to a different course on linux academy that teaches python development. Same general content but good to go through for repetition and I also tend to pick up new things when doing something a second or third time. 
 For instance, I start to think of the use cases where one would use tuples, dicts, ranges, and using tuples or lists to populate a dict. 
 On the IaC side, I finally was able to get a successful playbook run with ansible. Ensured I used become_method: sudo. 
+
+### Day 27: 20191027, Sun
+
+**Today's Progress**:
+Worked mainly looking at sed and regex to see how python can be used for the purpose of manipulating strings. Likely this can be done by using shutil and regex (re). 
+Interesting topic. 
+For my IaC project, I added in F5 instance to the terraform side, which required some output var fixes. Also plugged it into my ansible playbook, which required me adding paramiko and make to the list of apps to install in my alpine build, as well as dealing with some host_key_checking issues, which I hope to solve in the dockerfile. 
