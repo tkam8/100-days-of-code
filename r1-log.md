@@ -215,3 +215,13 @@ On the IaC side, I finally was able to get a successful playbook run with ansibl
 Worked mainly looking at sed and regex to see how python can be used for the purpose of manipulating strings. Likely this can be done by using shutil and regex (re). 
 Interesting topic. 
 For my IaC project, I added in F5 instance to the terraform side, which required some output var fixes. Also plugged it into my ansible playbook, which required me adding paramiko and make to the list of apps to install in my alpine build, as well as dealing with some host_key_checking issues, which I hope to solve in the dockerfile. 
+
+### Day 28: 20191028, Mon
+
+**Today's Progress**:
+Mostly doing work on terraform and ansible. 
+
+### Day 29: 20191029, Tue
+
+**Today's Progress**:
+Studied about polymorphism and inheritance. I like the idea of not having to reinvent the wheel. Also need to ensure I practice this going forward. It can get confusing with all the moving parts...
