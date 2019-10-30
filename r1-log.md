@@ -225,3 +225,9 @@ Mostly doing work on terraform and ansible.
 
 **Today's Progress**:
 Studied about polymorphism and inheritance. I like the idea of not having to reinvent the wheel. Also need to ensure I practice this going forward. It can get confusing with all the moving parts...
+
+### Day 30: 20191030, Wed
+
+**Today's Progress**:
+Spent some time looking at jinja2 syntax for templating in python. 
+Seems to be versatile and usable even in Ansible. 
