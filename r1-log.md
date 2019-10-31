@@ -237,3 +237,4 @@ Seems to be versatile and usable even in Ansible.
 **Today's Progress**:
 Spent time learning about Google cloud functions (faas) and databases (redis/memcached, cassandra, hadoop/hdfs). When accessing data needs to be fast, the db  you choose will differ. 
 Interesting area. 
+I also spent a good deal of time learning about variables and scope in Ansible. Precedence is pre-defined and ways to access variables from multiple places will differ. All about scope and precedence. Then about syntax. Realized jinja2 syntax is quite more widespread than previously thought...never realized it when using Ansible. 
