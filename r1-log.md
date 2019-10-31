@@ -231,3 +231,9 @@ Studied about polymorphism and inheritance. I like the idea of not having to rei
 **Today's Progress**:
 Spent some time looking at jinja2 syntax for templating in python. 
 Seems to be versatile and usable even in Ansible. 
+
+### Day 31: 20191031, Thu
+
+**Today's Progress**:
+Spent time learning about Google cloud functions (faas) and databases (redis/memcached, cassandra, hadoop/hdfs). When accessing data needs to be fast, the db  you choose will differ. 
+Interesting area. 
